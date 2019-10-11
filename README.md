@@ -30,7 +30,7 @@ git push origin master
 
 ## Rules for making changes to this repository
 
-Choose the programming language you would like to contribute to , find its respective folder and add the code to it. If the folder is not present , then create the folder with the name of the programming language.
+Choose the programming language you would like to contribute to , find its respective folder and add the code to it. If the folder is not present , then create the folder with the name of the programming language (always create folder name in lowercase letters).
 
 ## Resources
 1. Markdown : Markdown is a lightweight markup language like HTML, with plain text formatting syntax. 
