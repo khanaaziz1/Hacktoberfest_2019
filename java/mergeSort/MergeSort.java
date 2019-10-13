@@ -41,7 +41,7 @@ public class Main {
         int j = mid;
         int tempIndex = 0;
 
-        // a temporary method to sort
+        // a temporary array to sort
         int[] temp = new int[end - start];
         
         while (i < mid && j < end) {
